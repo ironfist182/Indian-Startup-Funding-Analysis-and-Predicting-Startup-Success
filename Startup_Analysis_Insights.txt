@@ -1,0 +1,46 @@
+## Insights from the Data Analysis
+
+Q1 How does the funding ecosystem change with time?
+ - The funding ecosystem was getting better every year with increase in the total funding for the different startups within a year
+   but was affected during year 2019-2020 due to COVID 19 but again picked its pace in the year 2020 
+   and 2021.
+
+Q2. Do cities play a major role in funding?
+ - Bangalore had witnessed the most number of startups followed by Mumbai and Delhi/NCR.
+   Mumbai had the maximum Median Funding Amount among all the cities ,close to Bangalore and Delhi/NCR.
+
+Q3. Which industries are favored by investors for funding?
+ -  The Industries that are favoured by the investors are-
+    Consumer Internet Industry with a total share of 48.7 % followed by
+    Technology Industry with a share of 17.7 % followed by 
+    Ecommerce Industry with a share of 14.6%
+
+Q4. Who are the important investors in the Indian Ecosystem?
+ -  Info Edge (India) Ltd   
+    Kalaari Capital          
+    InnoVen Capital 
+    Innoven Capital had funded the maximum amount among three. 
+
+Q5. How much funds does startups generally get in India?
+ -  Generally startup gets a funding of 2500000 USD
+    with a maximum funding of 3900000000 USD and 
+    minimum funding of 18000 USD so far.    
+
+Q6. How does the funding amount depends on the type of investment?
+ -  We have seen the maximum number of investments were in the form of Private Equity
+    followed by seed funding and Seed Angel funding.
+    Among all the investment types Series A.B,C were leading in terms of the 
+    amount of funding but considering the no. of fundings provided in their form, we can ignore
+    them for answering this question.
+    Among the 3 most Frequent types of Investment , it can be observed that Private Equity 
+    is leading the game.
+
+Q7. What is the impact of COVID-19, if any to the funding that startups get?
+ -  We have a seen a decline of Funding Amount from year 2019 to 2020 ,  when the 
+    first wave hit the world. But it bounced back in the year 2021 so far. 
+
+Q8. How does the progress of startup depends on the amount of funding?
+ -  Generally with a greater funding, startup tends to do better but that is not always the case.
+    we didn't have enough data on the progress of startups to analyze with the amount of funding.
+    (i have plotted 10-11 data points which are not obviously enough to analyze this trend.)
+
